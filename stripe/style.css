@@ -1,0 +1,101 @@
+.navbar-nav{
+    float: right;
+    margin-left: 50px;
+    padding-left: 100px;
+}
+.navbar{
+    
+    background-color: rgb(131, 131, 212) !important;
+    width: 100%;
+    
+    border-bottom: 2px bold blue;
+    
+ }
+ .navbar .navbar-brand{
+    color:white;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+.navbar .navbar-brand:hover{
+    color:white;
+}
+.navbar .nav-link{
+    color: white!important;
+}
+.showcase{
+    height: 70vh;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(rgb(196, 196, 196),rgb(196, 196, 196)), url(./im/How-to-get-water-reduction-formulation-right_wrbm_large.jpg);
+   /* background-position: inherit;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+
+}
+.showcase h1{
+    padding-top:140px;
+    font-size: 60px;
+    margin-bottom: 10px;
+    margin-top: -80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-weight: bold;
+}
+.showcase p{
+font-size: 30px;
+
+}
+ #contact{
+     height: 50vh;
+     text-align: center;
+     background-color: rgb(41, 139, 204);
+ }
+
+#contact h1{
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+    color: white;
+}
+
+
+h4{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.order {
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+    margin-top: 10px;
+    float: right; 
+    margin-bottom: 10px;
+}
+.button_1{
+    height: 38px;
+    background:  #3d49bbe8;
+    border: none;
+    color: white;
+    margin-top: 5px;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+.card-deck{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card img{
+    height: 50vh;
+}
+footer{
+    padding: 20px;
+    color: white;
+    background: rgb(131, 131, 212);
+    text-align: center;
+  
+}
